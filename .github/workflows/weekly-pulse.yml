@@ -1,0 +1,47 @@
+name: Weekly review pulse
+
+# Runs itself every Monday; the manual trigger is there for an off-cycle run.
+on:
+  schedule:
+    - cron: "0 4 * * 1"          # Mondays, 04:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  pulse:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Build the note and the email draft
+        env:
+          # Optional. Without it the run uses the deterministic rules writer.
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          MAIL_TO: ${{ vars.MAIL_TO }}
+        run: python run_weekly.py
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: weekly-pulse
+          path: |
+            output/weekly_note.md
+            output/weekly_email.eml
+            output/weekly_email.txt
+            output/reviews.csv
+
+      - name: Commit the latest note back to the repo
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -f output/weekly_note*.md output/weekly_email.txt output/weekly_email.eml
+          git diff --staged --quiet || git commit -m "Weekly pulse: $(date -u +%Y-%m-%d)"
+          git push
