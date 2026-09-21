@@ -1,24 +1,24 @@
-To: you@example.com
-Subject: Groww weekly review pulse - 2026-09-13 to 2026-09-19
+To: 
+Subject: Groww weekly review pulse - 2026-09-14 to 2026-09-20
 
 # Groww - Weekly Review Pulse
-**2026-09-13 to 2026-09-19** | 769 reviews | avg 4.07★ | 20% rated 1-2★
+**2026-09-14 to 2026-09-20** | 680 reviews | avg 4.09★ | 20% rated 1-2★
 
-769 reviews, avg 4.07★. Sharpest pain is charges, statements & support at 81% negative.
+680 reviews, avg 4.09★. Sharpest pain is charges, statements & support at 78% negative.
 
 ## Top themes
-1. **Orders & Investing** - 120/225 themed · 36% at 1-2★ · -5.0pp vs prior weeks
-2. **Charges, Statements & Support** - 53/225 themed · 81% at 1-2★ · +5.4pp vs prior weeks
-3. **App Performance & UX** - 24/225 themed · 71% at 1-2★ · -2.2pp vs prior weeks
+1. **Orders & Investing** - 102/193 themed · 34% at 1-2★ · -5.2pp vs prior weeks
+2. **Charges, Statements & Support** - 46/193 themed · 78% at 1-2★ · +5.2pp vs prior weeks
+3. **App Performance & UX** - 23/193 themed · 65% at 1-2★
 
 ## What users said
-> “commodity trading chart price and order price are different why, baised by big bull on trading…”
+> “commodity trading chart price and order price are different why, baised by big bull on trading day. Volume graph…”
 > *1★ - Play Store - Orders & Investing*
 
-> “Bahut hidden charges lagate hai... alag alag reason se charges cut karte hai... customer…”
+> “Bahut hidden charges lagate hai... alag alag reason se charges cut karte hai... customer support achcha nahi hai…”
 > *1★ - Play Store - Charges, Statements & Support*
 
-> “worst app. Application not working in my phone. even after several complaints they didn't…”
+> “worst app. Application not working in my phone. even after several complaints they didn't resolve my issue”
 > *1★ - Play Store - App Performance & UX*
 
 ## Three things to do
@@ -26,4 +26,4 @@ Subject: Groww weekly review pulse - 2026-09-13 to 2026-09-19
 2. **Put a charges breakdown next to every debit** - Itemise brokerage, DP and statutory fees inline so hidden-charge claims have an answer.
 3. **Gate the next release on a crash-rate budget** - Most complaints follow an update; hold rollout if crash or ANR rate regresses.
 
-<sub>Public App Store + Play Store reviews, 2026-06-28 to 2026-09-19. No personal data. Writer: rules.</sub>
+<sub>Public App Store + Play Store reviews, 2026-06-29 to 2026-09-20. No personal data. Writer: rules.</sub>
