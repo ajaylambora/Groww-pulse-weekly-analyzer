@@ -1,26 +1,26 @@
 # Groww - Weekly Review Pulse
-**2026-09-28 to 2026-10-04** | 596 reviews | avg 4.31★ | 14% rated 1-2★
+**2026-10-05 to 2026-10-11** | 639 reviews | avg 4.18★ | 18% rated 1-2★
 
-596 reviews, avg 4.31★. Sharpest pain is app performance & ux at 71% negative.
+639 reviews, avg 4.18★. Sharpest pain is app performance & ux at 70% negative.
 
 ## Top themes
-1. **Orders & Investing** - 77/131 themed · 17% at 1-2★ · +2.3pp vs prior weeks
-2. **Charges, Statements & Support** - 21/131 themed · 62% at 1-2★ · -3.8pp vs prior weeks
-3. **App Performance & UX** - 17/131 themed · 71% at 1-2★
+1. **Orders & Investing** - 96/169 themed · 33% at 1-2★
+2. **Charges, Statements & Support** - 32/169 themed · 56% at 1-2★
+3. **App Performance & UX** - 23/169 themed · 70% at 1-2★
 
 ## What users said
-> “This app is missing basic features like 1.stop loss and target for GTT in one order 2.trailing…”
-> *1★ - Play Store - Orders & Investing*
+> “excellent App. Easy to navigate, easy to use, for both stocks and mutual funds. Can transact in external mutual funds also. using it for more than year now.”
+> *5★ - Play Store - Orders & Investing*
 
-> “why 0 rating is not their??????? pathetic customer support the rating is for them only please…”
+> “customer service is worst..customer care and grievance mechanism won't help well..it is frustrating”
 > *1★ - Play Store - Charges, Statements & Support*
 
-> “App is not working in computer and mobile 21st june 2022, not working in 8th September 2022…”
-> *1★ - Play Store - App Performance & UX*
+> “not opening not working after uninstall and reinstall its not working not healthy upstream shows - problem solved 👌 😌”
+> *5★ - Play Store - App Performance & UX*
 
 ## Three things to do
 1. **Ship the chart and position gaps users keep naming** - Triage repeated asks on timeframes, squared-off positions and P&L views into one release.
 2. **Put a charges breakdown next to every debit** - Itemise brokerage, DP and statutory fees inline so hidden-charge claims have an answer.
 3. **Gate the next release on a crash-rate budget** - Most complaints follow an update; hold rollout if crash or ANR rate regresses.
 
-<sub>Public App Store + Play Store reviews, 2026-07-13 to 2026-10-04. No personal data. Writer: rules.</sub>
+<sub>Public App Store + Play Store reviews, 2026-07-20 to 2026-10-11. No personal data. Writer: rules.</sub>
