@@ -1,0 +1,26 @@
+# Groww - Weekly Review Pulse
+**2026-10-19 to 2026-10-25** | 614 reviews | avg 4.19★ | 18% rated 1-2★
+
+614 reviews, avg 4.19★. Sharpest pain is app performance & ux at 69% negative.
+
+## Top themes
+1. **Orders & Investing** - 72/145 themed · 38% at 1-2★ · -6.0pp vs prior weeks
+2. **Charges, Statements & Support** - 30/145 themed · 67% at 1-2★
+3. **App Performance & UX** - 16/145 themed · 69% at 1-2★ · -1.7pp vs prior weeks
+
+## What users said
+> “Minus point wanted to give but give it 5 star so that it shown on top, since…”
+> *5★ - Play Store - Orders & Investing*
+
+> “Used to be good but now the charges are just significant, brokerage and DP…”
+> *2★ - Play Store - Charges, Statements & Support*
+
+> “Stay away from groww This app doesn't glitch but it is made sure to slow down…”
+> *1★ - Play Store - App Performance & UX*
+
+## Three things to do
+1. **Ship the chart and position gaps users keep naming** - Triage repeated asks on timeframes, squared-off positions and P&L views into one release.
+2. **Put a charges breakdown next to every debit** - Itemise brokerage, DP and statutory fees inline so hidden-charge claims have an answer.
+3. **Gate the next release on a crash-rate budget** - Most complaints follow an update; hold rollout if crash or ANR rate regresses.
+
+<sub>Public App Store + Play Store reviews, 2026-08-03 to 2026-10-25. No personal data. Writer: rules.</sub>
