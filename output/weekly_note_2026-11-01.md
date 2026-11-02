@@ -1,0 +1,26 @@
+# Groww - Weekly Review Pulse
+**2026-10-26 to 2026-11-01** | 714 reviews | avg 4.18★ | 18% rated 1-2★
+
+714 reviews, avg 4.18★. Sharpest pain is app performance & ux at 73% negative.
+
+## Top themes
+1. **Orders & Investing** - 117/182 themed · 44% at 1-2★ · +8.7pp vs prior weeks
+2. **App Performance & UX** - 26/182 themed · 73% at 1-2★ · +1.0pp vs prior weeks
+3. **Charges, Statements & Support** - 21/182 themed · 57% at 1-2★ · -8.3pp vs prior weeks
+
+## What users said
+> “after update very bad and laggy process for F&O trading. Facing many issues prices not updating,unable to find my…”
+> *1★ - Play Store - Orders & Investing*
+
+> “After updating application legging and slow movement pls fix that as soon as possible .chat price stuck and…”
+> *1★ - App Store - App Performance & UX*
+
+> “should mention brokerage and tax charges after each transaction a little clearly”
+> *5★ - Play Store - Charges, Statements & Support*
+
+## Three things to do
+1. **Ship the chart and position gaps users keep naming** - Triage repeated asks on timeframes, squared-off positions and P&L views into one release.
+2. **Gate the next release on a crash-rate budget** - Most complaints follow an update; hold rollout if crash or ANR rate regresses.
+3. **Put a charges breakdown next to every debit** - Itemise brokerage, DP and statutory fees inline so hidden-charge claims have an answer.
+
+<sub>Public App Store + Play Store reviews, 2026-08-10 to 2026-11-01. No personal data. Writer: rules.</sub>
