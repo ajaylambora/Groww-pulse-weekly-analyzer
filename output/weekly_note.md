@@ -1,26 +1,26 @@
 # Groww - Weekly Review Pulse
-**2026-10-26 to 2026-11-01** | 714 reviews | avg 4.18★ | 18% rated 1-2★
+**2026-11-02 to 2026-11-08** | 670 reviews | avg 4.19★ | 17% rated 1-2★
 
-714 reviews, avg 4.18★. Sharpest pain is app performance & ux at 73% negative.
+670 reviews, avg 4.19★. Sharpest pain is charges, statements & support at 79% negative.
 
 ## Top themes
-1. **Orders & Investing** - 117/182 themed · 44% at 1-2★ · +8.7pp vs prior weeks
-2. **App Performance & UX** - 26/182 themed · 73% at 1-2★ · +1.0pp vs prior weeks
-3. **Charges, Statements & Support** - 21/182 themed · 57% at 1-2★ · -8.3pp vs prior weeks
+1. **Orders & Investing** - 86/167 themed · 30% at 1-2★ · -4.7pp vs prior weeks
+2. **Charges, Statements & Support** - 34/167 themed · 79% at 1-2★ · +1.0pp vs prior weeks
+3. **App Performance & UX** - 27/167 themed · 56% at 1-2★ · +3.2pp vs prior weeks
 
 ## What users said
-> “after update very bad and laggy process for F&O trading. Facing many issues prices not updating,unable to find my…”
+> “If you are a scalper trade F&O, Don't use groww, for investing in long term sip…”
 > *1★ - Play Store - Orders & Investing*
 
-> “After updating application legging and slow movement pls fix that as soon as possible .chat price stuck and…”
-> *1★ - App Store - App Performance & UX*
+> “Highly irresponsible and pathetic customer support If you call they keep you…”
+> *1★ - App Store - Charges, Statements & Support*
 
-> “should mention brokerage and tax charges after each transaction a little clearly”
-> *5★ - Play Store - Charges, Statements & Support*
+> “worst app ever for trading it is worst of worst app go to angel easy set up and…”
+> *1★ - Play Store - App Performance & UX*
 
 ## Three things to do
 1. **Ship the chart and position gaps users keep naming** - Triage repeated asks on timeframes, squared-off positions and P&L views into one release.
-2. **Gate the next release on a crash-rate budget** - Most complaints follow an update; hold rollout if crash or ANR rate regresses.
-3. **Put a charges breakdown next to every debit** - Itemise brokerage, DP and statutory fees inline so hidden-charge claims have an answer.
+2. **Put a charges breakdown next to every debit** - Itemise brokerage, DP and statutory fees inline so hidden-charge claims have an answer.
+3. **Gate the next release on a crash-rate budget** - Most complaints follow an update; hold rollout if crash or ANR rate regresses.
 
-<sub>Public App Store + Play Store reviews, 2026-08-10 to 2026-11-01. No personal data. Writer: rules.</sub>
+<sub>Public App Store + Play Store reviews, 2026-08-17 to 2026-11-08. No personal data. Writer: rules.</sub>
